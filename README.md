@@ -1,7 +1,7 @@
 ## Choose Your Language
 
 <details>
-  <summary>Português (Original)</summary>
+  <summary>Português</summary>
 
 # **Olá, eu sou Wellington! 👋**
 
